@@ -11,7 +11,7 @@ A website for Bondi Theme agency created with HTML and CSS!
 👁 [Click here](!!!!!) to check out the live demo!
 
 ## Technologies Used
-* <img src='./Images/readme-badges/html.svg' alt='HTML' valign='middle'>
-* <img src='./Images/readme-badges/css.svg' alt='CSS' valign='middle'> 
-* <img src='./Images/readme-badges/javascript.svg' alt='CSS' valign='middle'> 
+* <img src='./Imgs/readme-badges/html.svg' alt='HTML' valign='middle'>
+* <img src='./Imgs/readme-badges/css.svg' alt='CSS' valign='middle'> 
+* <img src='./Imgs/readme-badges/javascript.svg' alt='CSS' valign='middle'> 
 
