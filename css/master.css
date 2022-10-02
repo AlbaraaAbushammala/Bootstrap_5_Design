@@ -4,6 +4,7 @@
   --green-color: #33d1cc;
   --red-color:#ff3150;
   --yellow-color: #ffc400;
+  --section-color: #eff7fa;
 }
   
 * {
@@ -87,3 +88,77 @@ body {
   min-height: calc(100vh - 70px);
 }
 /* End Landing */
+
+/* Start Features */
+.features .icon-holder{
+  height: 200px;
+}
+
+.features .icon-holder svg {
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.features .icon-holder .number {
+  font-size: 12rem;
+  color: var(--section-color);
+}
+
+.features .icon-holder .icon {
+  color: var(--green-color);
+  bottom: 10px;
+}
+
+.features .feat h4 {
+  color: var(--yellow-color);
+}
+
+
+/* End Features */
+
+/* Start Our Work */
+.our-work {
+  background-color: var(--section-color);
+}
+
+.our-work ul .active{
+  background-color: var(--red-color);
+  color: var(--yellow-color);
+}
+
+.our-work li {
+  padding: 0.5rem 1rem;
+  cursor: pointer;
+}
+
+.our-work li:not(.active):hover {
+  color: var(--red-color);
+}
+
+.our-work .box {
+  padding: 5px;
+  overflow: hidden;
+
+}
+
+.our-work .box::before {
+  content: attr(data-work);
+  position: absolute;
+  height: calc(100% - 10px);
+  width: calc(100% - 10px);
+  background-color: rgb(51 209 204 / 76%);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transition: 0.7s;
+  font-weight: bold;
+  color: white;
+  transform: translateX(calc(-100% - 5px));
+}
+
+.our-work .box:hover::before {
+
+  transform: translateX(0);
+}
+
+/* End Our Work */
