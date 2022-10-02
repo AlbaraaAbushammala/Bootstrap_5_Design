@@ -8,7 +8,7 @@ A website for Bondi Theme agency created with HTML and CSS!
 ![design-view](./imgs/design-view.png)
 
 ## Live Demo
-👁 [Click here](!!!!!) to check out the live demo!
+👁 [Click here](https://albaraaabushammala.github.io/Bootstrap_5_Design) to check out the live demo!
 
 ## Technologies Used
 * <img src='imgs/readme-badges/html.svg' alt='HTML' valign='middle'>
