@@ -157,7 +157,6 @@ body {
 }
 
 .our-work .box:hover::before {
-
   transform: translateX(0);
 }
 
