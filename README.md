@@ -13,5 +13,3 @@ A website for Bondi Theme agency created with HTML and CSS!
 ## Technologies Used
 * <img src='imgs/readme-badges/html.svg' alt='HTML' valign='middle'>
 * <img src='imgs/readme-badges/css.svg' alt='CSS' valign='middle'> 
-
-
